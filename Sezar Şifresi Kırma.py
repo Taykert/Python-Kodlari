@@ -1,6 +1,6 @@
 print("Sezar Şifresi Kırma Programına Hoşgeldiniz.")
 sifresiz=input("Şifresi kırılacak metni giriniz:")
-def sifrele(metin):
+def sifrele(metin):AnKArA76?:.
     sifrelimetin=""
     for harf in metin:
         asciikod=ord(harf)
